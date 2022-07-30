@@ -35,4 +35,24 @@ let mother_name = "sareta devi"
 // => 5 let check case
 
 let first_name="vikram"  // this is snake case
-let firstName="bosak"  // this is camel case 
+let firstName="bosak"  // this is camel case
+
+
+// product of these varibles
+
+let x=99 ;
+let y 99;
+
+let product = x*y;
+console.log(product)
+
+
+// product of these varibles
+
+let x=99 ;
+let y 99;
+
+let product = x*y;
+console.log(product)
+
+//
