@@ -75,10 +75,149 @@
 //=>  1000 dono
 
 
-let a = 10;
-let b = "10";
+// let a = 10;
+// let b = "10";
 
-// console.log(((a+b) - (b-a))+((a**b)-a-b));
+// // console.log(((a+b) - (b-a))+((a**b)-a-b));
 
 
-console.log(a===b);
+// console.log(a===b);
+
+// var num
+
+// if (num % 3 ==0) {
+//     console.log("multiple of 3");
+// }else{
+//     console.log("Not a multiple of 3");
+// }
+
+
+
+// let light= "puple";
+
+// if(light == "red"){
+//     console.log("stop the car");
+// } else if (light=="yellow") {
+//     console.log("Be Ready");
+// } else if (light == "green"){
+//     console.log("Go");
+// }else {
+//  console.log("NA");
+// }
+
+
+// let age = 18;
+
+// if (age >= 18) {
+//     console.log("Apply for a license");
+// } else (age <= 17); {
+//     console.log("NA");
+// }
+
+
+// let person = Driver;
+
+// let age = 18;
+
+// if (person==driver)
+//     if (age>=){
+//         console.log("Apply for a lincense");
+
+// }
+
+
+
+// let num = (a > b);
+// let num2 = (a == b);
+
+// let a = 16;
+// let b = 16;
+
+// if (a>b) {
+//     console.log(a, "is greater");
+// } else {
+// console.log("not greater")
+// }
+
+// if (a>b) {
+// console.log(a , " is a greater");
+// } else if(a=b){
+// console.log("both is equal")
+// }
+
+
+
+
+// let unsername = "vikrambosak";
+
+// let password = "vikram108"
+
+// password==unsername;
+// password!=unsername;
+
+// if (unsername!=password) {
+//    console.log("you have login")
+// } else {
+//  console.log("wrong password and username")
+// }
+
+
+
+// if(unsername=="vikrambosak"){
+//     if(password=="vikram108"){
+//         console.log("you can login")
+//     }else{
+//         console.log("you can't login")
+//     }
+// }
+
+
+// let N = 2;
+
+// // if (N) {
+// //     console.log("yes")
+// // }
+
+// if (N=2) {
+//     console.log("yes");
+// } else {
+// console.log("no")
+// }
+
+
+// let Australia = 1;
+// let England = 1;
+
+// if (Australia > England) {
+//     console.log("Australia");
+// } else if (Australia < England) {
+//  console.log("England")
+// }else(Australia == England);{
+//     console.log("Tie");
+// }
+
+
+
+//   speed=distance/time;
+
+//     if(speed>40){
+//         console.log("Apply Breke");
+//     }else{
+//         console.log("Keep Going");
+//     }
+
+
+// let len
+
+
+// console.log((5<5) && (3>1) && (2>1) && (4<1));
+let x = 10;
+let y =8;
+
+// if(x%2==0 && y%==0){
+//     console.log("both are dividible by 2");
+// }else if(x%5==0 && y%2==0){
+//     console.log("I am getting remainder as 0");
+// }else{
+//     console.log("nothing is going to hapen");
+// }
