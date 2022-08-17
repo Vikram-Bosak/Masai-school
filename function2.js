@@ -136,3 +136,57 @@ if(string==rev_str){
 }else{
     console.log("Not a Pallindrome");
 }
+
+
+
+// 6.---------------------------------------------------------
+// inbuild function
+
+// let x= 9;
+
+// console.log(typeof(x));
+
+
+let animal = ["pigs", "goats", "sheep"];
+
+let x=animal.push("dog");
+
+console.log(animal);
+console.log(x);
+
+
+// let sentence = 'the qucik brown fox jumps over the lazy dog';
+
+// let word = "";
+
+// for(let i=0; i<=sentence.length-1; i++){
+//     if(sentence[i]=""){
+//         word=word+sentence[i];
+//     }else{
+//         arr.push(word);
+//         word="";
+//     }
+// }
+
+// console.log(arr);
+
+
+
+
+let character = ["Rey" , "mondo","kenobi", "boba Fett" , "Yida"]
+
+function starwars(char){
+    let subTotal =0;
+
+    for(let i=0; i<char.length; i++){
+        if(char[i].length%2==0){
+            subTotal=subTotal+1;
+        }else{
+            subTotal=subTotal+2;
+        }
+        return subTotal;
+    }
+}
+
+let total =5 + starwars(character);
+console.log(total);
